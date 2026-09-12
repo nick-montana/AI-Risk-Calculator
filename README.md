@@ -1,13 +1,50 @@
-Application URL: https://main.d3pyyo1j1socpr.amplifyapp.com/
+# ai-risk-calculator
 
-The Automation Preparation Tool
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+TODO: Put more badges here.
 
-Full-Stack web application that shows users their occupation's risk of automation
+aws graphql dynamo
 
-Risk probabilities pulled from:
-    "The future of employment: How susceptible are jobs to computerization?" 
-    Authors - Carl Benedikt Frey and Michael A. Osbourne
-    doi:10:1016/j.techfore.2016.08.019 
+TODO: Fill out this long description.
+
+## Table of Contents
+
+- [Security](#security)
+- [Background](#background)
+- [Install](#install)
+- [Usage](#usage)
+- [API](#api)
+- [Maintainers](#maintainers)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Security
+
+## Background
+
+## Install
+
+```sh
+```
+
+## Usage
+
+```sh
+```
+
+## API
+
+## Maintainers
+
+[@Nick Montana](https://aws/Nick Montana)
+
+## Contributing
 
 
 
+Small note: If editing the README, please conform to the
+[standard-readme](https://github.com/RichardLitt/standard-readme) specification.
+
+## License
+
+MIT © 2026 Nick Montana
